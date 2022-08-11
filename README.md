@@ -1,5 +1,5 @@
 # IVE---Industrial-Attachment
-Company: PIMS Services Hong Kong Limited
+Description: In order to study the world happiness, the project visualizes Kaggle's second-hand data by using Tableau. Our team's goal is to find out what are the factors that lead to country rankings, my teammate and I use Tableau to create dashboards and stories for point out the features of dataset.
 
 Skills: R, Web scraping, Tableau<br>
 
